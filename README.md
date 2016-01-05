@@ -1,2 +1,3 @@
 # hello-world
-It is a test repository in github
+
+Hello ! Welcome to my readme.  Let me tell You that I am 6+ years experienced professioanl PHP developer and have done 65+ complex projects, including CRM, Softwares, Web-applications and Websites.  I am confident that my skills and 7+ years PHP Development experience are relevant and I can be an ideal candidate for your project.   Let me tell You that I have a great experience with API integration/development, Payment Gateways and third party Softwares.  - Solid web development experience with OOP,XML,XHTML, social network APIs, and following famous patterns like MVC and observer. - Javascript, AngularJS - Experience in MySQL, Sql, MongoDB, Database development concepts - Proficiency in Data Mapping, Responsive Web Development, BootStrap, OOP concepts - Excellent experience with Git, BitBucket, Trello, BaseCamp  I'm ready to prove that I'm the right guy for your project
